@@ -1,8 +1,3 @@
-# SIMPLE-CALCULATOR
-Sure! Here's a simple GitHub README description for a calculator project using HTML and CSS:
-
----
-
 # Simple Calculator
 
 This is a basic calculator web application built using HTML and CSS. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
